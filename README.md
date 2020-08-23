@@ -1,4 +1,4 @@
-### Hewwo! I'm Désiré - aka [Gata][website]! Lead dev (at) [Marqueza][marqueza_website] 👑
+### Hewwo! I'm Désirée - aka [Gata][website]! Lead dev (at) [Marqueza][marqueza_website] 👑
 
 ![Website](https://img.shields.io/website?label=My%20website&style=for-the-badge&url=https%3A%2F%2Fgataquadrada.com.br)
 ![Twitter Follow](https://img.shields.io/twitter/follow/gataquadrada?style=for-the-badge)
