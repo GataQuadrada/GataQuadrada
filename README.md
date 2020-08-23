@@ -14,7 +14,7 @@
 - 🗯　I talk a lot. I type faster than I speak. Good luck dealing with my randomness!
 - 👾　Fun fact¹: I have the ~rare~ skill of being able to be completely neutral to anything.
 - 🎃　Fun fact²: I write thousands of lines of codes daily. Sometimes, just because.
-- 🎧　Fact: I wanted to have a "last playing" widget in here, But you're not ready for my playlists!
+- 🎧　A fact: I wanted to have a "last playing" widget in here. But you're not ready for that!
 
 ### Follow me:
 
@@ -51,6 +51,11 @@
 ![Gata's github stats](https://github-readme-stats.vercel.app/api?username=gataquadrada&show_icons=true&theme=dracula&_=1)
 
 [![READGATA.md](https://github-readme-stats.vercel.app/api/pin/?username=gataquadrada&repo=gataquadrada&theme=dracula&_=1)](https://github.com/gataquadrada/gataquadrada)
+
+<br />
+<br />
+
+🍉 Avatar by [Loish](https://loish.net)!
 
 [website]: https://gataquadrada.com.br
 [twitter]: https://twitter.com/gataquadrada
