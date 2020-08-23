@@ -1,21 +1,20 @@
 ### Hewwo! I'm Désiré - aka [Gata][website]! Lead dev (at) [Marqueza][marqueza_website] 👑
 
 ![Website](https://img.shields.io/website?label=My%20website&style=for-the-badge&url=https%3A%2F%2Fgataquadrada.com.br)
-![Website](https://img.shields.io/website?label=Marqueza&style=for-the-badge&url=https%3A%2F%2Fmarqueza.com.br)
 ![Twitter Follow](https://img.shields.io/twitter/follow/gataquadrada?style=for-the-badge)
 ![Twitch Status](https://img.shields.io/twitch/status/gataquadrada?style=for-the-badge)
+![Website](https://img.shields.io/website?label=Marqueza&style=for-the-badge&url=https%3A%2F%2Fmarqueza.com.br)
 
 ## Caring wife, loves tomatoes, codes & analyses ALL-THE-TIME! ‍👸🏼
 
-- 👩🏼‍💻 I work at [Marqueza][marqueza_website] and try to make the world a better place with my coding skills!
-- 🎲 I am great with creating data flows from unusual patterns, can cypher almost anything and used to learn languages on the go!
-- 🧚🏻‍♀️ Recently, I got into open-source code. My Twitch/Discord Bot is available for free (please, don't do anything weird to her 🤕).
-- 🗯 I talk a lot. I type faster than I speak. Good luck dealing with my randomness!
-- 👾 Fun fact¹: I have the ~rare~ skill of being able to be completely neutral to anything.
-- 🎃 Fun fact²: I write thousands of lines of codes daily. Sometimes, just because.
-
-### Last playing 🎧
-_Codding this part. Will have my last iTunes song. Just give me a few hours and you'll see!_
+- 👩🏼‍💻  I work at [Marqueza][marqueza_website] and try to make the world a better place with my coding skills!
+- 🎲  I am great with creating data flows from unusual patterns, cypher stuff and learn languages on the go!
+- 🧚🏻‍♀️  Recently, I got into open-source code.
+- 🤖  My Twitch/Discord Bot is available for free (please, don't do anything weird to her 🤕).
+- 🗯  I talk a lot. I type faster than I speak. Good luck dealing with my randomness!
+- 👾  Fun fact¹: I have the ~rare~ skill of being able to be completely neutral to anything.
+- 🎃  Fun fact²: I write thousands of lines of codes daily. Sometimes, just because.
+- 🎧  Fact: I wanted to have a "last playing" widget in here, But you're not ready for my playlists!
 
 ### Follow me:
 
