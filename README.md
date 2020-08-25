@@ -52,6 +52,7 @@
 ![Gata's github stats](https://github-readme-stats.vercel.app/api?username=gataquadrada&show_icons=true&theme=dracula&_=1)
 
 [![READGATA.md](https://github-readme-stats.vercel.app/api/pin/?username=gataquadrada&repo=gataquadrada&theme=dracula&_=1)](https://github.com/gataquadrada/gataquadrada)
+[![BABYGATA.md](https://github-readme-stats.vercel.app/api/pin/?username=gataquadrada&repo=BabyGata&theme=dracula&_=1)](https://github.com/gataquadrada/BabyGata)
 
 [website]: https://gataquadrada.com.br
 [twitter]: https://twitter.com/gataquadrada
