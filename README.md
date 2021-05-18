@@ -10,23 +10,23 @@
 - 👩🏼‍💻　I work at [Marqueza][marqueza_website] and try to make the world a better place with my coding skills!
 - 🎲　I am great with creating data flows from unusual patterns, cypher stuff and learn languages on the go!
 - 🧚🏻‍　Recently, I got into open-source code.
-- 🤖　My Twitch/Discord Bot is available for free. But, please, don't do anything weird to her 🤕
+- 🤖　My Twitch/Discord Bot was available for free. But people did weird stuff to her 🤕
 - 🗯　I talk a lot. I type faster than I speak. Good luck dealing with my randomness!
 - 👾　Fun fact¹: I have the ~rare~ skill of being able to be completely neutral to anything.
 - 🎃　Fun fact²: I write thousands of lines of codes daily. Sometimes, just because.
-- 🎧　A fact: I wanted to have a "last playing" widget in here. But you're not ready for that!
-- 🍉　Avatar by [Loish](https://loish.net). I LOVE her style!
+- 🎧　A fact: I wanted to have a "last playing" widget in here. But you're not ready for my taste!
+- 🍉　Avatar by [NyxBlossom](https://twitch.tv/nyxblossom). She is my world and I love her more than anything!
 
 ### Follow me:
 
-[<img align="left" alt="gataquadrada.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/heart.svg" />][website]
+[<img align="left" alt="gata.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/heart.svg" />][website]
 [<img align="left" alt="marqueza.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][marqueza_website]
 [<img align="left" alt="Twitter@GataQuadrada" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram@GataQuadrada" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Languages and Tools (will also learn whatever is interesting):
+### Languages and Tools:
 
 [<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
@@ -52,9 +52,8 @@
 ![Gata's github stats](https://github-readme-stats.vercel.app/api?username=gataquadrada&show_icons=true&theme=dracula&_=1)
 
 [![READGATA.md](https://github-readme-stats.vercel.app/api/pin/?username=gataquadrada&repo=gataquadrada&theme=dracula&_=1)](https://github.com/gataquadrada/gataquadrada)
-[![BABYGATA.md](https://github-readme-stats.vercel.app/api/pin/?username=gataquadrada&repo=BabyGata&theme=dracula&_=1)](https://github.com/gataquadrada/BabyGata)
 
-[website]: https://gataquadrada.com.br
+[website]: https://gata.dev
 [twitter]: https://twitter.com/gataquadrada
 [instagram]: https://instagram.com/gataquadrada
 [marqueza_website]: https://marqueza.com.br
